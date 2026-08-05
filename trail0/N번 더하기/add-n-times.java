@@ -4,13 +4,10 @@ public class Main {
     public static void main(String[] args) {
         // Please write your code here.
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int n = sc.nextInt();
-        int hap = a + n;
+        int a = sc.nextInt(), n = sc.nextInt();
 
         for (int i = 0; i < n; i++){
-            System.out.println(hap);
-            hap += n;
+            System.out.println(a += n);
         }
     }
 }
