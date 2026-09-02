@@ -1,10 +1,10 @@
 # [level 0] 글자 지우기 - 181900 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=python3) 
 
 ### 성능 요약
 
-메모리: 78.7 MB, 시간: 2.84 ms
+메모리: 11.4 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 09월 02일 21:19:00
+2026년 09월 02일 21:32:22
 
 ### 문제 설명
 
