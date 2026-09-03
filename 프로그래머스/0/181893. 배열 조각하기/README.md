@@ -1,10 +1,10 @@
 # [level 0] 배열 조각하기 - 181893 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181893) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=python3) 
 
 ### 성능 요약
 
-메모리: 88.1 MB, 시간: 0.04 ms
+메모리: 11.7 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 09월 03일 22:19:34
+2026년 09월 03일 22:23:20
 
 ### 문제 설명
 
