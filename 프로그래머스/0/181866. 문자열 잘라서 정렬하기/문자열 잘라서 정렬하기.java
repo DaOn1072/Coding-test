@@ -5,10 +5,9 @@ class Solution {
         String[] splitArray = myString.split("x");
         
         String[] answer = Arrays.stream(splitArray)
-                                .filter(s -> !s.isEmpty()) 
-                                .sorted()                  
-                                .toArray(String[]::new);   
-                                
+                                .filter(s -> !s.isEmpty())
+                                .sorted()
+                                .toArray(String[]::new);
         return answer;
     }
 }
