@@ -6,5 +6,5 @@ def solution(arr, flag):
                 answer.append(arr[i])
         else:
             for j in range(arr[i]):
-                answer.pop(-1)
+                answer.pop()
     return answer
